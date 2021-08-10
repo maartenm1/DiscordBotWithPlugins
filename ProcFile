@@ -1,1 +1,2 @@
-worker: node DiscordBotWithPluginsApplication.java
+Worker: DiscordBotWithPlugins/src/main/java/none/DiscordBotWithPlugins/DiscordBotWithPluginsApplication.java 
+
